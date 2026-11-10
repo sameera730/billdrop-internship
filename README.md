@@ -4,6 +4,10 @@ BillDrop is a made-up invoice review tool for accountants and managers to upload
 
 **Live link:** Pending deployment.
 
+## Deploy on Render
+
+The repository includes `render.yaml`. In Render, create a Blueprint from this public GitHub repository and choose the free web service. The health check is `/api/health`. Add `OCR_SPACE_API_KEY` and, optionally, `OPENROUTER_API_KEY` and `OPENROUTER_MODEL` in the Render environment settings; never add them to GitHub. The free service sleeps when idle, and its local SQLite data and uploaded files can be lost on restart or redeploy, so use made-up demo data only.
+
 ## Recordings
 
 60-second Drive recording: pending. Add a Drive link with “Anyone with the link” access after recording the working flow. Do not upload the recording to YouTube or LinkedIn.
