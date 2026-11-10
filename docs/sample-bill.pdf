@@ -1,0 +1,70 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 600 >>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(MADE-UP DEMO BILL) Tj
+0 -30 Td
+/F1 12 Tf
+(Salem Fasteners Demo) Tj
+0 -22 Td
+ /F1 11 Tf
+(Invoice No: SFD-1109) Tj
+0 -22 Td
+ /F1 11 Tf
+(Date: 2026-11-09) Tj
+0 -22 Td
+ /F1 11 Tf
+() Tj
+0 -22 Td
+ /F1 11 Tf
+(Hex bolts, 20 pieces ........ INR 850.00) Tj
+0 -22 Td
+ /F1 11 Tf
+(Steel hinges, 12 pieces .... INR 720.00) Tj
+0 -22 Td
+ /F1 11 Tf
+(Wall plugs, 8 boxes ........ INR 480.00) Tj
+0 -22 Td
+ /F1 11 Tf
+() Tj
+0 -22 Td
+ /F1 11 Tf
+(TOTAL ...................... INR 2050.00) Tj
+0 -22 Td
+ /F1 11 Tf
+() Tj
+0 -22 Td
+ /F1 11 Tf
+(Invented training data. No real customer or supplier.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+968
+%%EOF
