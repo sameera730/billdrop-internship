@@ -2,7 +2,7 @@
 
 BillDrop is a made-up invoice review tool for accountants and managers to upload, check, and save supplier bills.
 
-**Live link:** Pending deployment.
+**Live link:** https://billdrop-internship.onrender.com
 
 ## Deploy on Render
 
@@ -70,8 +70,8 @@ All names, suppliers, bills, amounts, dates, and login accounts in the seed data
 
 ## What works
 
-- Fully working: demo login, seeded records, offline sample bill review and save, role-based bill visibility, supplier totals, private file route, OCR.Space upload integration when configured, optional OpenRouter extraction.
-- Partly done: live deployment, real OCR credentials, and the required Drive recording link are pending setup.
+- Fully working: deployed demo login, seeded records, offline sample bill review and save, role-based bill visibility, supplier totals, private file route.
+- Partly done: real file uploads need an `OCR_SPACE_API_KEY`; AI extraction needs OpenRouter settings; the required Drive recording link is pending.
 - Skipped: batch processing and later-week features outside the first complete bill flow.
 
 ## What I would do differently with more time
