@@ -48,7 +48,6 @@ db.exec(`
     FOREIGN KEY(bill_id) REFERENCES bills(id) ON DELETE CASCADE
   );
 `);
-seedDatabase();
 
 const DEMO_USERS = [
   { id: 'demo-accountant', name: 'Demo Accountant', email: 'accountant@billdrop.demo', role: 'accountant', password: 'billdrop-demo-1' },
@@ -66,6 +65,7 @@ const DEMO_INVOICE = {
   total: 2050
 };
 const DEMO_OCR_TEXT = `SALEM FASTENERS DEMO\nInvoice No: SFD-1109\nDate: 2026-11-09\nHex bolts, 20 pieces 850\nSteel hinges, 12 pieces 720\nWall plugs, 8 boxes 480\nTotal 2050`;
+seedDatabase();
 
 async function loadEnv() {
   try {
