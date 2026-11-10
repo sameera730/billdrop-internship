@@ -10,7 +10,7 @@ The repository includes `render.yaml`. In Render, create a Blueprint from this p
 
 ## Recordings
 
-Drive recording: [Watch the BillDrop review flow](https://drive.google.com/file/d/14sG-loSwoEKYliVz3bwW8IK3DUJQL9Rz/view?usp=drive_link). The uploaded recording is 20:01; the internship brief asks for a 60-second clip. Do not upload the recording to YouTube or LinkedIn.
+1-minute Drive recording: [Watch the BillDrop review flow](https://drive.google.com/file/d/14sG-loSwoEKYliVz3bwW8IK3DUJQL9Rz/view?usp=drive_link). Do not upload the recording to YouTube or LinkedIn.
 
 ## Test logins
 
